@@ -6,7 +6,7 @@ Somos o time de QA do banco NU, onde somos responsávels por toda parte de QA.
 
 # Atividade FURBS
 
-file:///C:/Users/aluno/Downloads/Exerc%C3%ADcio%20FURPS%20-%20Gest%C3%A3o%20&%20Qualidade%20de%20Software.pdf
+https://filetools14.pdf24.org/client.php?mode=inline&file=joinPdf_783f2231c85b7ba99d73c6fbfdf5c4fc_5473837100389894470.pdf&action=getFile
 
 # Autores
 
