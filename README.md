@@ -10,7 +10,7 @@ https://filetools14.pdf24.org/client.php?mode=inline&file=joinPdf_783f2231c85b7b
 
 # Atividade Plano de Gerenciamento de Riscos
 
-https://docs.google.com/document/d/1JjvxvMmnbdE0CmajLHVuiPOKwT6jKaA0YiNHy2RnZec/edit?usp=sharing
+https://docs.google.com/document/d/1JjvxvMmnbdE0CmajLHVuiPOKwT6jKaA0YiNHy2RnZec/edit?usp=sharing // https://docs.google.com/document/d/1JjvxvMmnbdE0CmajLHVuiPOKwT6jKaA0YiNHy2RnZec/edit#heading=h.ux36kwi58rl9
 
 
 # Autores
