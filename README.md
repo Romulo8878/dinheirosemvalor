@@ -8,6 +8,11 @@ Somos o time de QA do banco NU, onde somos responsávels por toda parte de QA.
 
 https://filetools14.pdf24.org/client.php?mode=inline&file=joinPdf_783f2231c85b7ba99d73c6fbfdf5c4fc_5473837100389894470.pdf&action=getFile
 
+# Atividade Gerenciamento de Risco
+
+https://docs.google.com/document/d/1JjvxvMmnbdE0CmajLHVuiPOKwT6jKaA0YiNHy2RnZec/edit?usp=sharing
+
+
 # Autores
 
 Bárbara Vitória
