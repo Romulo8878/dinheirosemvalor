@@ -14,8 +14,7 @@ https://drive.google.com/file/d/1YdI-ERBc-_PcqGI9k9fmBn1UKqSDIk5Y/view?usp=drive
 
 # Atividade Lista de Riscos
 
-https://docs.google.com/document/d/1p-IUYOGMIOODIJGtw2aOyNwEMU9NTxZTSgUC7D4AQ-4/edit?usp=sharing
-
+https://drive.google.com/file/d/1pmlRzqnUtT7HLv9wTLEXh47pAuJBrILk/view?usp=sharing
 # Autores
 
 Bárbara Vitória
