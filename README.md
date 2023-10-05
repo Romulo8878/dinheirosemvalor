@@ -6,7 +6,7 @@ Somos o time de QA do banco NU, onde somos responsávels por toda parte de QA.
 
 # Atividade FURBS
 
-https://filetools14.pdf24.org/client.php?mode=inline&file=joinPdf_783f2231c85b7ba99d73c6fbfdf5c4fc_5473837100389894470.pdf&action=getFile
+https://drive.google.com/file/d/1B36K814LpwbtmLE-hq2NW2SUhNFtLbze/view?usp=sharing
 
 # Atividade Plano de Gerenciamento de Riscos
 
