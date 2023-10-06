@@ -1,5 +1,8 @@
 # Banco NU - O Banco pra você.
 
+
+O Nu Bank é uma instituição financeira digital que oferece serviços financeiros simplificados, do qual conta com Conta Digital possibilitando os clientes à realizar operações bancárias básicas, cartão de crédito sem anuidade, empréstimos pessoais, investimentos, pix e transferências, saque sem cartão, e tudo isso por meio de um aplicativo via seu próprio App Mobile.
+
 # Sobre o Projeto
 
 Somos o time de QA do banco NU, onde somos responsávels por toda parte de QA.
